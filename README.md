@@ -1,4 +1,4 @@
-🤖 Tugas 2: Time Server TCP dengan Multithreading
+# 🤖 Tugas 2: Time Server TCP dengan Multithreading
 
 Repositori ini berisi implementasi dari sebuah time server sederhana menggunakan Python, yang dibuat sebagai bagian dari tugas mata kuliah Praktikum Pemrograman Jaringan (Kelas C).
 
